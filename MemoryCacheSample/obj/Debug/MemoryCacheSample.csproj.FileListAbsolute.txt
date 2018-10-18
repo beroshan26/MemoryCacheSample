@@ -1,0 +1,6 @@
+C:\Samples\GitHub\MemoryCacheSample\MemoryCacheSample\bin\Debug\MemoryCacheSample.exe.config
+C:\Samples\GitHub\MemoryCacheSample\MemoryCacheSample\bin\Debug\MemoryCacheSample.exe
+C:\Samples\GitHub\MemoryCacheSample\MemoryCacheSample\bin\Debug\MemoryCacheSample.pdb
+C:\Samples\GitHub\MemoryCacheSample\MemoryCacheSample\obj\Debug\MemoryCacheSample.csprojResolveAssemblyReference.cache
+C:\Samples\GitHub\MemoryCacheSample\MemoryCacheSample\obj\Debug\MemoryCacheSample.exe
+C:\Samples\GitHub\MemoryCacheSample\MemoryCacheSample\obj\Debug\MemoryCacheSample.pdb
